@@ -71,7 +71,7 @@ train data에 채택한 변수 사용
 ### 개발 환경(OS)
 :
 
-### 라이브러리 설명
+### 사용한 라이브러리
 
 import seaborn as sns<br/>
 import numpy as np<br/>
@@ -88,7 +88,7 @@ import warnings<br/>
 warnings.filterwarnings('ignore')
 
 
-## 4. 코드 실행 방법 (그런거 없는데영,.,..)
+## 4. 코드 실행 방법 
 ### ~~
 ~~
 - ~~
